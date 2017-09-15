@@ -3,10 +3,10 @@
 ## Agenda semanal
 |	Lugar|	Fecha|	Tema| Horario| Expositor| Mas información|
 |------|-------|------|-------------------|-----------|---------|
-|	Salón 317|	~~4/8/2017~~|	Business IT|	6:00 pm a 8:00 pm| |
-|	Salón 317|	~~11/8/2017~~|	 GraphQL|	6:00 pm a 8:00 pm| ||
-|	Salón 234	|	15/09/2017| Linux y sus distribuciones| 6:00 pm a 8:00 pm| ||
-|	Salón 234	|	15/09/2017| Repositorios con Github| 6:00 pm a 8:00 pm| ||
+|	UIP, Salón 317|	~~4/8/2017~~|	Business IT|	6:00 pm a 8:00 pm| |
+|	UIP, Salón 317|	~~11/8/2017~~|	 GraphQL|	6:00 pm a 8:00 pm| ||
+|	UIP, Salón 234	|	15/09/2017| Linux y sus distribuciones| 6:00 pm a 8:00 pm| ||
+|	UIP, Salón 234	|	15/09/2017| Repositorios con Github| 6:00 pm a 8:00 pm| ||
 |	Salón | | Python Meetup Vol. VII| | ||
 |	Salón|	|	 Docker Meetup| | ||
 
