@@ -9,8 +9,8 @@
 | UIP, Salón 232 | ~~15/09/2017~~ | Repositorios con Github                                 | 7:00 pm a 8:00 pm |                                         |                 |
 | UIP, Salón 204 | ~~22/09/2017~~     | Como se si soy un heroe o bombero en la industria de IT | 6:00 pm a 7:00 pm | [@zgudino](https://twitter.com/zgudino) |                 |
 | UIP, Salón 204 | ~~22/09/2017~~     | Metodologias para el desarrollo de software             | 7:00 pm a 8:00 pm |                                         |                 |
-| UIP, Salón  | 29/09/2017 |  |                   |             |                                                               |
-| UIP, Salón  | 29/09/2017 |  |                   |             |                                                               |
+| UIP, Salón  |     06/10/2017    | Lenguaje de Programacion para Aplicaciones Confiables   | 6:00 pm a 7:00 pm |             |                                                               |
+| UIP, Salón  |     06/10/2017    | Pentesting Android with Metasploit                      | 7:00 pm a 8:00 pm |             |                                                               |
 
 
 ## Agenda principal
