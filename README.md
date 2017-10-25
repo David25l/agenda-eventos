@@ -11,7 +11,8 @@
 | UIP, Salón 204 | ~~22/09/2017~~     | Metodologias para el desarrollo de software | 7:00 pm a 8:00 pm | - | - |
 | UIP, Salón -- |     13/10/2017    | Lenguaje de Programacion para Aplicaciones Confiables   | 6:00 pm a 7:00 pm |    Chris Duncan | - |
 | UIP, Salón -- |     20/10/2017    | Pentesting Android with Metasploit | 7:00 pm a 8:00 pm | Sebastian Torres   | -|
-| UIP, Salón -- |     27/10/2017    | ¿Por qué es importante ser un usuario y un desarrollador de Linux? - Fedora Project | 7:00 pm a 8:00 pm | [@yosef7](https://yoseft7.wordpress.com)  |  - |
+| UIP, Salón SPC1 |     27/10/2017    | ¿Por qué es importante ser un usuario y un desarrollador de Linux? - Fedora Project | 6:00 pm a 7:00 pm | [@yosef7](https://yoseft7.wordpress.com)  |  - |
+| UIP, Salón SPC1 |     27/10/2017    | Cloud Computing | 7:00 pm a 8:00 pm | Abraham Valdes  |  - |
 
 ## Agenda principal
 |  Lugar |   Fecha | Tema | Horario | Expositores | Más información |
