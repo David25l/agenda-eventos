@@ -10,7 +10,7 @@
 |     Lugar       |     Fecha    |                    Tema              |   Horario          | Expositor   | Mas información |
 |-----------------| -------------| -------------------------------------|--------------------|-------------|-----------------|
 |                 |              | FLISOL 2018                          |                    | []()        |                 |
-|                 |              | Hardware Freedom Day 2               |                    | []()        |                 |
+|                 |              | Hardware Freedom Day 2018            |                    | []()        |                 |
 |                 |              | Linux Day 2018                       |                    | []()        |                 |
 |                 |              | Software Freedom Day 2018            |                    | []()        |                 |
 
