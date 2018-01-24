@@ -1,16 +1,16 @@
-# Calendario de evento 2018
+# Calendario de evento --año--
 
 ## Agenda semanal
 |     Lugar       |     Fecha    |                    Tema              |   Horario          | Expositor   | Mas información |
 |-----------------| -------------| -------------------------------------|--------------------|-------------|-----------------|
-| UIP, Salón      |              |                                      |                    | []()        |                 |
+| --lugar--, Salón      |              |                                      |                    | []()        |                 |
 
 
 ## Agenda principal
 |     Lugar       |     Fecha    |                    Tema              |   Horario          | Expositor   | Mas información |
 |-----------------| -------------| -------------------------------------|--------------------|-------------|-----------------|
-|                 |              | FLISOL 2018                          |                    | []()        |                 |
-|                 |              | Hardware Freedom Day 2018            |                    | []()        |                 |
-|                 |              | Linux Day 2018                       |                    | []()        |                 |
-|                 |              | Software Freedom Day 2018            |                    | []()        |                 |
+|                 |              | FLISOL --año--                          |                    | []()        |                 |
+|                 |              | Hardware Freedom Day --año--            |                    | []()        |                 |
+|                 |              | Linux Day --año--                       |                    | []()        |                 |
+|                 |              | Software Freedom Day --año--            |                    | []()        |                 |
 
