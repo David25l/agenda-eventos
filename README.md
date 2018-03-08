@@ -19,7 +19,7 @@
 |-----------------| -----------|--------------------|
 | Cecilio Nño     | Sistema de Gestion de Seguridad de la Informacíon: El camino para gobernarlos a todos           | 5:00 pm / 6:00 pm  |
 | Luis Araujo     | La Psicologia detras de la Ingenieria Social |   6:00 pm / 7:00 pm               |
-| Sebastian User  |            | 7:00 pm / 8:00 pm                   |
+| Sebastian Torres  | Modelo de Seguridad para aplicación móvil           | 7:00 pm / 8:00 pm                   |
 
 
 
