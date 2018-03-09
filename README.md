@@ -4,11 +4,11 @@
 | Lugar           |     Fecha  |                    Tema              |   Horario          | Expositor   | Mas información |
 |-----------------| -----------| -------------------------------------|--------------------|-------------|-----------------|
 | UIP             | 20/03/2018 | Ciberseguridad                       | 5:00 pm / 8:00 pm  | []()        |                 |
-| UIP             | --/03/2018 | Blockchain                           |                    | []()        |                 |
-| UIP             | --/04/2018 | Programación Cuántica                |                    | []()        |                 |
-| UIP             | --/04/2018 | Python Meetup                        |                    | []()        |                 |
+| UIP             | 09/04/2018 | Blockchain                           |                    | []()        |                 |
 | UIP             | 28/04/2018 | FLISOL 2018                          |                    | []()        |                 |
-| UIP             | 29/05/2018 | Fedora Release Party                 |                    | []()        |                 
+| UIP             | 22/05/2018 | Python Meetup                        |                    | []()        |                 |
+| UIP             | 29/05/2018 | Fedora Release Party                 |                    | []()        |                 |
+| UIP             | 11/06/2018 | Programación Cuántica                |                    | []()        |                 
 |                 | 25/08/2018 | LinuxDay 2018                        |                    | []()        |                 |
 |                 | 22/09/2018 | Software Freedom Day 2018            |                    | []()        |                 |
 
