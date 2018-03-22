@@ -12,12 +12,12 @@
 
 
 ## Info 
-- #### [Revista de seguridad](www.allsecurity.org )
+- #### [Revista de seguridad](www.allsecurity.org)
 - #### [](/info/whatis.md)
 
 ## Organizado por:
-- ### Comunidad de Floss Panamá y Falculta de Ingenieria UIP
-- ### [David Lopez](https://twitter.com/David25LO?lang=es), [Shelsy Chanis](https://twitter.com/shelsxacm), [Adbel Martinez](https://twitter.com/abdelgmartinezl) y [Maryon Torres](https://twitter.com/maryitotr).
+- ### [Comunidad de Floss Panamá](https://floss-pa.net/) y Falculta de Ingenieria UIP
+- ### [David Lopez](https://twitter.com/David25LO?lang=es), [Shelsy Chanis](https://twitter.com/shelsxacm), [Adbel Martinez](https://twitter.com/abdelgmartinezl), Adrian Marin y [Maryon Torres](https://twitter.com/maryitotr).
 
 ## Patrocinadores
 <img src="https://www.uip.edu.pa/wp-content/uploads/2017/08/Logo-UIP-jpg.jpg" width="170"><img src="https://pbs.twimg.com/profile_images/852597051808522240/5iJqsWQL_400x400.jpg" width="170"> 
