@@ -11,9 +11,8 @@
 | [Sebastian Torres]()    | Modelo de Seguridad para aplicación móvil           | 8:00 pm / 9:00 pm                   |
 
 
-## Info 
+## Más información 
 - #### [Revista de seguridad](www.allsecurity.org)
-- #### [](/info/whatis.md)
 
 ## Organizado por:
 - ### [Comunidad de Floss Panamá](https://floss-pa.net/) y Falculta de Ingenieria UIP
